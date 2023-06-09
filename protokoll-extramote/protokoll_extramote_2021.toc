@@ -1,0 +1,15 @@
+\babel@toc {swedish}{}
+\contentsline {section}{\numberline {1}Mötets öppnande}{3}{section.1}%
+\contentsline {section}{\numberline {2}Val av mötesfunktionärer}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Mötesordförande}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Mötessekreterare}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Justeringsperson, Rösträknare}{3}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Adjungeringar och fastställande av röstlängden}{3}{section.3}%
+\contentsline {section}{\numberline {4}Fastställande av mötets stadgeenliga utlysande}{3}{section.4}%
+\contentsline {section}{\numberline {5}Fastställande av föredragningslista}{4}{section.5}%
+\contentsline {section}{\numberline {6}Det ekonomiska läget}{4}{section.6}%
+\contentsline {section}{\numberline {7}Budgetrevidering}{4}{section.7}%
+\contentsline {section}{\numberline {8}Motioner och propositioner}{5}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Motion angående att strukturera om Aktivitetsutskottets ledning}{5}{subsection.8.1}%
+\contentsline {section}{\numberline {9}Övrigt}{5}{section.9}%
+\contentsline {section}{\numberline {10}Mötets avslut}{6}{section.10}%

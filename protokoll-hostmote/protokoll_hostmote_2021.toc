@@ -1,0 +1,56 @@
+\babel@toc {swedish}{}
+\contentsline {section}{\numberline {1}Mötets öppnande}{4}{section.1}%
+\contentsline {section}{\numberline {2}Val av mötesfunktionärer}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Mötesordförande}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Mötessekreterare}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Justeringsperson, Rösträknare}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Adjungeringar och fastställande av röstlängden}{4}{section.3}%
+\contentsline {section}{\numberline {4}Fastställande av mötets stadgeenliga utlysande}{4}{section.4}%
+\contentsline {section}{\numberline {5}Fastställande av föredragningslista}{5}{section.5}%
+\contentsline {section}{\numberline {6}Rapport och meddelanden från styrelsen och kansliet}{5}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Styrelsen}{5}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Aktivitetsutskottet/Eventutskottet}{5}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}AktU}{5}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}D20}{5}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}D-Band}{6}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}D-Lan}{6}{subsubsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.3}Alumniutskottet}{6}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Arbetsmarknadsgruppen}{6}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}D-Group}{6}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Donna}{6}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Infoutskottet}{7}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}Marknadsföringsutskottet}{7}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.9}Näringslivsutskottet}{7}{subsection.6.9}%
+\contentsline {subsection}{\numberline {6.10}Pubutskottet}{7}{subsection.6.10}%
+\contentsline {subsection}{\numberline {6.11}STABEN}{7}{subsection.6.11}%
+\contentsline {subsection}{\numberline {6.12}Utbildningsutskottet}{8}{subsection.6.12}%
+\contentsline {subsection}{\numberline {6.13}Valberedningen}{8}{subsection.6.13}%
+\contentsline {subsection}{\numberline {6.14}Webbutskottet}{8}{subsection.6.14}%
+\contentsline {subsection}{\numberline {6.15}Werkmästeriet}{8}{subsection.6.15}%
+\contentsline {subsection}{\numberline {6.16}DEG}{8}{subsection.6.16}%
+\contentsline {section}{\numberline {7}Sektionens ekonomiska läge}{9}{section.7}%
+\contentsline {section}{\numberline {8}Styrelsen informerar}{9}{section.8}%
+\contentsline {section}{\numberline {9}Aktivitetsutskottet 20/21}{9}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Verksamhetsberättelse}{9}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Ekonomisk berättelse}{9}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Arbetsmarknadsgruppen 20/21}{10}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Verksamhetsberättelse}{10}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Ekonomisk berättelse}{10}{subsection.10.2}%
+\contentsline {section}{\numberline {11}D-Group 20/21}{10}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Verksamhetsberättelse}{10}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Ekonomisk berättelse}{10}{subsection.11.2}%
+\contentsline {section}{\numberline {12}STABEN 20/21}{10}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Verksamhetsberättelse}{10}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Ekonomisk berättelse}{10}{subsection.12.2}%
+\contentsline {section}{\numberline {13}Styrelsen 20/21}{10}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Verksamhetsberättelse}{10}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Ekonomisk berättelse}{11}{subsection.13.2}%
+\contentsline {section}{\numberline {14}Ekonomisk berättelse för verksamhetsåret 20/21}{11}{section.14}%
+\contentsline {section}{\numberline {15}Ansvarsfrihet för verksamhetsåret 20/21}{11}{section.15}%
+\contentsline {section}{\numberline {16}Motioner och propositioner}{12}{section.16}%
+\contentsline {section}{\numberline {17}Personval}{13}{section.17}%
+\contentsline {subsection}{\numberline {17.1}Fadderigeneral 2022}{13}{subsection.17.1}%
+\contentsline {subsection}{\numberline {17.2}Fadderikassör 2022}{13}{subsection.17.2}%
+\contentsline {section}{\numberline {18}Medaljutdelning}{14}{section.18}%
+\contentsline {section}{\numberline {19}Övrigt}{14}{section.19}%
+\contentsline {section}{\numberline {20}Mötets avslut}{14}{section.20}%

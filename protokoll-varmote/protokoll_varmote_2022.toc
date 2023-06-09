@@ -1,0 +1,53 @@
+\babel@toc {swedish}{}
+\contentsline {section}{\numberline {1}Mötets öppnande}{4}{section.1}%
+\contentsline {section}{\numberline {2}Val av mötesfunktionärer}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Mötesordförande}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Mötessekreterare}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Justeringsperson, Rösträknare}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Adjungeringar och fastställande av röstlängden}{4}{section.3}%
+\contentsline {section}{\numberline {4}Fastställande av mötets stadgeenliga utlysande}{4}{section.4}%
+\contentsline {section}{\numberline {5}Fastställande av föredragningslista}{5}{section.5}%
+\contentsline {section}{\numberline {6}Rapport och meddelanden från styrelsen och kansliet}{5}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Styrelsen}{5}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Alumniutskottet}{5}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Arbetsmarknadsgruppen}{5}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}D-Group}{6}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Donna}{6}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Ekonomiutskottet}{6}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Eventutskottet}{6}{subsection.6.7}%
+\contentsline {subsubsection}{\numberline {6.7.1}AktU}{6}{subsubsection.6.7.1}%
+\contentsline {subsubsection}{\numberline {6.7.2}D-Band}{6}{subsubsection.6.7.2}%
+\contentsline {subsubsection}{\numberline {6.7.3}D-Lan}{6}{subsubsection.6.7.3}%
+\contentsline {subsubsection}{\numberline {6.7.4}D20}{7}{subsubsection.6.7.4}%
+\contentsline {subsection}{\numberline {6.8}Infoutskottet}{7}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.9}Marknadsföringsutskottet}{7}{subsection.6.9}%
+\contentsline {subsection}{\numberline {6.10}Näringslivsutskottet}{7}{subsection.6.10}%
+\contentsline {subsection}{\numberline {6.11}Pubutskottet}{7}{subsection.6.11}%
+\contentsline {subsection}{\numberline {6.12}STABEN}{7}{subsection.6.12}%
+\contentsline {subsection}{\numberline {6.13}Utbildningsutskottet}{7}{subsection.6.13}%
+\contentsline {subsection}{\numberline {6.14}Valberedningen}{8}{subsection.6.14}%
+\contentsline {subsection}{\numberline {6.15}Webbutskottet}{8}{subsection.6.15}%
+\contentsline {subsection}{\numberline {6.16}Werkmästeriet}{8}{subsection.6.16}%
+\contentsline {section}{\numberline {7}Fastställande av rambudget och sektionsavgift}{8}{section.7}%
+\contentsline {section}{\numberline {8}Ansvarsfrihet D-Group 20/21 Kassör}{9}{section.8}%
+\contentsline {section}{\numberline {9}Motioner och propositioner}{9}{section.9}%
+\contentsline {section}{\numberline {10}Personval}{9}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Marknadsföringsutskottets ordförande 22/23}{9}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Näringslivsansvarig 22/23}{10}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Studienämndsordförande D 22/23}{10}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Studienämndsordförande U 22/23}{10}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Studienämndsordförande IP 22/23}{11}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}Studienämndsordförande masternivå 22/23}{11}{subsection.10.6}%
+\contentsline {subsection}{\numberline {10.7}Intendent 22/23}{11}{subsection.10.7}%
+\contentsline {subsection}{\numberline {10.8}Infochef 22/23}{12}{subsection.10.8}%
+\contentsline {subsection}{\numberline {10.9}Webmaster 22/23}{12}{subsection.10.9}%
+\contentsline {subsection}{\numberline {10.10}Revisorer 22/23}{13}{subsection.10.10}%
+\contentsline {subsection}{\numberline {10.11}Valberedningens ordförande 22/23}{14}{subsection.10.11}%
+\contentsline {subsection}{\numberline {10.12}Valberedningens ledamöter 22/23}{14}{subsection.10.12}%
+\contentsline {subsection}{\numberline {10.13}Alumniutskottets ordförande 22/23}{14}{subsection.10.13}%
+\contentsline {subsection}{\numberline {10.14}Pubutskottets ordförande 22/23}{15}{subsection.10.14}%
+\contentsline {subsection}{\numberline {10.15}Studienämndsordförande IT 22/23}{15}{subsection.10.15}%
+\contentsline {section}{\numberline {11}Medaljutdelning}{16}{section.11}%
+\contentsline {section}{\numberline {12}Övrigt}{16}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Årets pedagog 21/22 på D-sektionen}{16}{subsection.12.1}%
+\contentsline {section}{\numberline {13}Mötets avslut}{16}{section.13}%

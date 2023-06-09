@@ -1,0 +1,52 @@
+\babel@toc {swedish}{}
+\contentsline {section}{\numberline {1}Mötets öppnande}{4}{section.1}%
+\contentsline {section}{\numberline {2}Val av mötesfunktionärer}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Mötesordförande}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Mötessekreterare}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Justeringsperson, Rösträknare}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Adjungeringar och fastställande av röstlängden}{4}{section.3}%
+\contentsline {section}{\numberline {4}Fastställande av mötets stadgeenliga utlysande}{4}{section.4}%
+\contentsline {section}{\numberline {5}Fastställande av föredragningslista}{5}{section.5}%
+\contentsline {section}{\numberline {6}Rapport och meddelanden från styrelsen och kansliet}{5}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Styrelsen}{5}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Alumniutskottet}{5}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Arbetsmarknadsgruppen}{5}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}D-Group}{5}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Donna}{6}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Ekonomiutskottet}{6}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Eventutskottet}{6}{subsection.6.7}%
+\contentsline {subsubsection}{\numberline {6.7.1}AktU}{6}{subsubsection.6.7.1}%
+\contentsline {subsubsection}{\numberline {6.7.2}D20}{6}{subsubsection.6.7.2}%
+\contentsline {subsubsection}{\numberline {6.7.3}D-Band}{6}{subsubsection.6.7.3}%
+\contentsline {subsubsection}{\numberline {6.7.4}D-Lan}{6}{subsubsection.6.7.4}%
+\contentsline {subsection}{\numberline {6.8}Infoutskottet}{7}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.9}Marknadsföringsutskottet}{7}{subsection.6.9}%
+\contentsline {subsection}{\numberline {6.10}Näringslivsutskottet}{7}{subsection.6.10}%
+\contentsline {subsection}{\numberline {6.11}Pubutskottet}{7}{subsection.6.11}%
+\contentsline {subsection}{\numberline {6.12}STABEN}{7}{subsection.6.12}%
+\contentsline {subsection}{\numberline {6.13}Utbildningsutskottet}{7}{subsection.6.13}%
+\contentsline {subsection}{\numberline {6.14}Valberedningen}{7}{subsection.6.14}%
+\contentsline {subsection}{\numberline {6.15}Webbutskottet}{8}{subsection.6.15}%
+\contentsline {subsection}{\numberline {6.16}Werkmästeriet}{8}{subsection.6.16}%
+\contentsline {section}{\numberline {7}Styrelsen informerar}{8}{section.7}%
+\contentsline {section}{\numberline {8}Sektionens ekonomiska läge}{8}{section.8}%
+\contentsline {section}{\numberline {9}Budgetrevidering}{9}{section.9}%
+\contentsline {section}{\numberline {10}Sektionens grafiska profil}{9}{section.10}%
+\contentsline {section}{\numberline {11}Motioner och propositioner}{10}{section.11}%
+\contentsline {section}{\numberline {12}Presentation av STABEN}{10}{section.12}%
+\contentsline {section}{\numberline {13}Personval}{11}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Sektionsordförande 22/23}{11}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Sektionskassör 22/23}{11}{subsection.13.2}%
+\contentsline {subsection}{\numberline {13.3}Vice ordförande 22/23}{11}{subsection.13.3}%
+\contentsline {subsection}{\numberline {13.4}Sekreterare 22/23}{12}{subsection.13.4}%
+\contentsline {subsection}{\numberline {13.5}Utbildningsutskottets ordförande 22/23}{12}{subsection.13.5}%
+\contentsline {subsection}{\numberline {13.6}Arbetsmiljöombud 22/23}{13}{subsection.13.6}%
+\contentsline {subsection}{\numberline {13.7}Eventutskottets ordförande}{13}{subsection.13.7}%
+\contentsline {subsection}{\numberline {13.8}Styrelseledamöter 22/23}{14}{subsection.13.8}%
+\contentsline {subsection}{\numberline {13.9}Damföreningens ordförande 22/23}{14}{subsection.13.9}%
+\contentsline {subsection}{\numberline {13.10}Damföreningens kassör 22/23}{15}{subsection.13.10}%
+\contentsline {subsection}{\numberline {13.11}Festeriets ordförande 22/23}{15}{subsection.13.11}%
+\contentsline {subsection}{\numberline {13.12}Festeriets kassör 22/23}{15}{subsection.13.12}%
+\contentsline {section}{\numberline {14}Medaljutdelning}{16}{section.14}%
+\contentsline {section}{\numberline {15}Övrigt}{16}{section.15}%
+\contentsline {section}{\numberline {16}Mötets avslut}{16}{section.16}%
