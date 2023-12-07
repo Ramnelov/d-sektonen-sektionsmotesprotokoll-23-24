@@ -1,0 +1,13 @@
+*.log
+*.synctex.gz
+*.fls
+*.toc
+*.aux
+*.fdb_latexmk
+*.dvi
+*.out
+*.pdf
+rekryteringspolicy.tex
+
+output/*
+!output/*.pdf
