@@ -10,4 +10,4 @@
 rekryteringspolicy.tex
 
 output/*
-!output/*.pdf
+!*/output/*.pdf
