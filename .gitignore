@@ -7,7 +7,6 @@
 *.dvi
 *.out
 *.pdf
-rekryteringspolicy.tex
 
 output/*
 !**/output/*.pdf
