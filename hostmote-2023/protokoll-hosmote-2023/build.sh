@@ -5,7 +5,6 @@
 for i in *.tex;
 do
   pdflatex -halt-on-error -output-directory output $i
-  pdflatex -halt-on-error -output-directory output $i;
 done
 
 # Compress pdfs
