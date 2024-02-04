@@ -39,6 +39,8 @@
   \renewcommand*\contentsname{Innehållsförteckning}
 }
 
+
+
 % add the § symbol to sections, requires tocloft
 % \addtolength\cftsecnumwidth{0.7em} 
 % \addtolength\cftsubsecnumwidth{0.7em} 
