@@ -1,5 +1,3 @@
-# Sekreterare D-sektionen
+# Hej!
 
-Här hittar du sektionsmötesprotokoll för verksamhetsåret 2023/2024.
-
-För att läsa ett dokument, välj möte, välj dokument och se pdf:er under output-mappen.
+Här hittar du mötesprotokoll för D-sektionens sektionsmöten under verksamhetsåret 23/24.
